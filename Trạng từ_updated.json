@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "word": "quanh năm",
+            "_word": "quanh nam",
+            "description": "Suốt từ đầu năm đến cuối năm.",
+            "tl": "Trạng từ",
+            "word_en": "year-around",
+            "tl_en": "Adverb",
+            "synset_en": [
+                "year-around",
+                "year-round",
+                "Yearly"
+            ]
+        },
+        {
+            "word": "đằng sau",
+            "_word": "dang sau",
+            "description": "",
+            "tl": "Trạng từ",
+            "word_en": "behind",
+            "tl_en": "Adverb",
+            "synset_en": [
+                "Back",
+                "After",
+                "To the rear",
+                "In the back"
+
+            ]
+        },
+        {
+            "word": "đằng trước",
+            "_word": "dang truoc",
+            "description": "",
+            "tl": "Trạng từ",
+            "word_en": "in front of",
+            "tl_en": "Adverb",
+            "synset_en": [
+                "Ahead",
+                "Before",
+                "Forward",
+                "At the front",
+                "In advance"
+            ]
+        }
+    ]
+}

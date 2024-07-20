@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "word": "còn bạn?",
+            "_word": "con ban?",
+            "description": "",
+            "tl": "Câu hỏi",
+            "word_en": "and you?",
+            "tl_en": "Question",
+            "synset_en": []
+        },
+        {
+            "word": "mệt không?",
+            "_word": "met khong?",
+            "description": "",
+            "tl": "Câu hỏi",
+            "word_en": "are you tired?",
+            "tl_en": "Question",
+            "synset_en": []
+        }
+    ]
+}

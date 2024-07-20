@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "word": "ham chơi",
+            "_word": "ham choi",
+            "description": "",
+            "tl": "Ngữ tính từ",
+            "word_en": "playful",
+            "tl_en": "Adjective",
+            "synset_en": [
+                "Fun-loving",
+                "Jovial",
+                "Lighthearted",
+                "Mischievous",
+                "Cheerful",
+                "Frolicsome"
+            ]
+        },
+        {
+            "word": "khó tiêu",
+            "_word": "kho tieu",
+            "description": "",
+            "tl": "Ngữ tính từ",
+            "word_en": "indigestible",
+            "tl_en": "Adjective",
+            "synset_en": [
+                "Inedible",
+                "Unpalatable",
+                "Non-digestible",
+                "Hard to digest",
+                "Indigestible"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "word": "cũng vậy/cũng thế",
+            "_word": "cung vay/cung the",
+            "description": "",
+            "tl": "Giới từ",
+            "word_en": "too",
+            "tl_en": "Adverb",
+            "synset_en": [
+                "also",
+                "besides",
+                "excessively",
+                "likewise",
+                "overly",
+                "as_well",
+                "to_a_fault",
+                "too"
+            ]
+        },
+        {
+            "word": "cùng / với (giới từ)",
+            "_word": "cung / voi (gioi tu)",
+            "description": "",
+            "tl": "Giới từ",
+            "word_en": "with",
+            "tl_en": "Preposition",
+            "synset_en": [
+                "Alongside",
+                "Together with",
+                "Accompanied by",
+                "In conjunction with",
+                "Along with",
+                "Plus",
+                "Including"
+            ]
+        }
+    ]
+}

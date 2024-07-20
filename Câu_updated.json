@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "word": "bạn yêu tôi",
+            "_word": "ban yeu toi",
+            "description": "",
+            "tl": "Câu",
+            "word_en": "you love me",
+            "tl_en": "Sentence",
+            "synset_en": [
+                "You care about me",
+                "You have feelings for me",
+                "You are fond of me",
+                "You cherish me",
+                "You adore me",
+                "You are in love with me"
+            ]
+        },
+        {
+            "word": "bạn ấy yêu tôi",
+            "_word": "ban ay yeu toi",
+            "description": "",
+            "tl": "Câu",
+            "word_en": "he/she loves me",
+            "tl_en": "Sentence",
+            "synset_en": [
+                "He/She cares about me",
+                "He/She has feelings for me",
+                "He/She is fond of me",
+                "He/She cherishs me",
+                "He/She adores me",
+                "He/She is in love with me"
+            ]
+        },
+        {
+            "word": "bạn yêu bạn ấy",
+            "_word": "ban yeu ban ay",
+            "description": "",
+            "tl": "Câu",
+            "word_en": "you love him/her",
+            "tl_en": "Sentence",
+            "synset_en": [
+                "You care about him/her",
+                "You have feelings for him/her",
+                "You are fond of him/her",
+                "You cherish him/her",
+                "You adore him/her",
+                "You are in love with him/her"
+            ]
+        },
+        {
+            "word": "bạn ấy yêu bạn",
+            "_word": "ban ay yeu ban",
+            "description": "",
+            "tl": "Câu",
+            "word_en": "he/she loves you",
+            "tl_en": "Sentence",
+            "synset_en": [
+                "He/She cares about you",
+                "He/She has feelings for you",
+                "He/She is fond of you",
+                "He/She cherishes you",
+                "He/She adores you",
+                "He/She is in love with you"
+            ]
+        },
+        {
+            "word": "đất nước bị chia cắt (Việt Nam)",
+            "_word": "dat nuoc bi chia cat (viet nam)",
+            "description": "",
+            "tl": "Câu",
+            "word_en": "the country is divided (Vietnam)",
+            "tl_en": "Sentence",
+            "synset_en": [
+                "The nation is split (Vietnam)",
+                "The country is fragmented (Vietnam)",
+                "The nation is partitioned (Vietnam)",
+                "Vietnam is experiencing division",
+                "The country of Vietnam is divided",
+                "There is a divide within the country (Vietnam)"
+            ]
+        }
+    ]
+}

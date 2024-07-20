@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "word": "nhưng",
+            "_word": "nhung",
+            "description": "Từ biểu thị điều sắp nêu ra ngược lại với điều vừa nói.",
+            "tl": "Kết từ",
+            "word_en": "but",
+            "tl_en": "Conjunction",
+            "synset_en": [
+                "but",
+                "merely",
+                "just",
+                "only",
+                "simply"
+            ]
+        }
+    ]
+}
